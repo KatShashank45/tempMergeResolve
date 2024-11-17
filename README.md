@@ -1,1 +1,3 @@
 # tempMergeResolve
+
+ok
